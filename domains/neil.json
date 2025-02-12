@@ -7,3 +7,13 @@
     "CNAME": "nxl22.github.io"
   }
 }
+
+{
+  "owner": {
+      "username": "nxl22",
+      "email": "neilaular01@protonmail.com"
+  },
+  "record": {
+      "TXT": "github-verification-string"
+  }
+}
